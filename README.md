@@ -1,2 +1,2 @@
 # pythonForData
-code from "Python for data"
+code from "Python for data Analysis"
